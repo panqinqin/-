@@ -67,3 +67,4 @@ vuex采用分离的写法，state、mutation、action分开写，方便维护。
 ![](screen/1.png)![](screen/2.png)
 ![](screen/3.png)![](screen/4.png)
 ![](screen/5.png)
+"# -" 
